@@ -1,0 +1,33 @@
+<!doctype html>
+<html dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>ALMansour</title>
+</head>
+
+<body background="55.jpg" style=" background-size: 100%;" text="" link="#0033ff" vlink="#999" alink="#ff0000" > <!-- bgcolor="Silver" لوضع خلفية الوان للصفحة او خلفية صورة للصفحة كما الكود الموضح--> 
+	<font face="simplified arabic,tahoma" color="#6F95F7" size="5">
+
+	
+	<b>مرحباً بكم في صفحتنا الشخصية </b> <!-- لجعل النص عريض -->
+	<p>Welcom in my first page</p> <!-- لوضع النص في بلقراف خاص --> <br>
+		i am &nbsp;  happy with HTML
+	<!-- لوضع مسافات داخل النص -->
+ 
+	</font>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+	<br><br><br><br> <!-- لنزول الى سطر جديد -->
+	&reg; hussain almansour &reg; <!-- لوضع علامة التسجيل -->
+</html>
